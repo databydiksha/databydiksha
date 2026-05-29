@@ -24,16 +24,6 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)
 
----
-
-## Featured Project
-
-### Stock Market Movement Prediction using Sentiment Analysis
-
-* Built using Python and Logistic Regression
-* Applied Sentiment Analysis for market prediction
-* Performed EDA and visualization
-* Achieved predictive insights using Machine Learning
 
 ---
 
@@ -42,7 +32,5 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 * LinkedIn: [www.linkedin.com/in/diksha-pandey2407](http://www.linkedin.com/in/diksha-pandey2407)
 
 ---
-
-### Quote I Believe In
 
 > "Without data, you're just another person with an opinion."
