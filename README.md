@@ -33,4 +33,4 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ---
 
-> "Without data, you're just another person with an opinion."
+> "Without data, you're just another person with an opinion"
