@@ -1,6 +1,6 @@
 # Hi there, I'm Diksha Pandey
 
-### MBA Business Analytics Student | Data Analytics & Machine Learning Enthusiast
+### Business Analytics | Data Analytics & Machine Learning Enthusiast
 
 I enjoy transforming raw data into meaningful insights and building data-driven solutions using Python and Machine Learning.
 
