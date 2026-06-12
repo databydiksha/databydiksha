@@ -12,7 +12,7 @@
 
 ## About Me
 
-Data fascinates me because it turns uncertainty into understanding.
+I enjoy exploring the stories hidden inside data and using them to solve real-world business problems.
 
 I'm Diksha Pandey, a Business Analytics enthusiast who enjoys uncovering insights, solving problems, and creating data-driven solutions that bridge the gap between numbers and decision-making.
 
