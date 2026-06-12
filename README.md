@@ -5,14 +5,12 @@
 </p>
 
 <p align="center">
-  📊 Data Analytics • 📈 Business Intelligence • 🤖 Machine Learning
+  Data Analytics • Business Intelligence • Machine Learning
 </p>
 
 ---
 
 ## 🎯 About Me
-
-```python
 class DikshaPandey:
 
     def __init__(self):
