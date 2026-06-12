@@ -11,17 +11,13 @@
 ---
 
 ## 🎯 About Me
-class DikshaPandey:
 
-    def __init__(self):
-        self.role = "Business Analytics Student"
-        self.interests = [
-            "Data Analytics",
-            "Machine Learning",
-            "Business Intelligence",
-            "Predictive Modeling"
-        ]
-        self.goal = "Transforming raw data into meaningful insights"
+Data fascinates me because it turns uncertainty into understanding.
 
-    def mindset(self):
-        return "Data first. Opinions later."
+I'm Diksha Pandey, a Business Analytics enthusiast who enjoys uncovering insights, solving problems, and creating data-driven solutions that bridge the gap between numbers and decision-making.
+
+My journey revolves around exploring patterns, building analytical models, and visualizing information in ways that help businesses make smarter choices. Whether it's analyzing trends, developing dashboards, or experimenting with machine learning, I'm always curious about what data can reveal.
+
+Currently exploring Data Analytics, Business Intelligence, Machine Learning, Predictive Modeling, and Data Visualization — one dataset at a time.
+
+Analyze • Visualize • Predict • Improve
