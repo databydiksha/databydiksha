@@ -1,4 +1,4 @@
-# Hi there, I'm Diksha Pandey
+# Hey Everyone, I'm Diksha Pandey
 
 ### Business Analytics | Data Analytics & Machine Learning Enthusiast
 
