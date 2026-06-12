@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Data Analytics • Business Intelligence • Machine Learning
+  Turning curiosity into insights and insights into decisions.
 </p>
 
 ---
