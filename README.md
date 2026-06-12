@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Diksha Pandey</h1>
+<h1 align="center">Hi, I'm Diksha Pandey</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Business+Analyst+Enthusiast;Turning+Data+Into+Business+Decisions;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New" />
@@ -10,14 +10,25 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Data fascinates me because it turns uncertainty into understanding.
 
 I'm Diksha Pandey, a Business Analytics enthusiast who enjoys uncovering insights, solving problems, and creating data-driven solutions that bridge the gap between numbers and decision-making.
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 My journey revolves around exploring patterns, building analytical models, and visualizing information in ways that help businesses make smarter choices. Whether it's analyzing trends, developing dashboards, or experimenting with machine learning, I'm always curious about what data can reveal.
 
 Currently exploring Data Analytics, Business Intelligence, Machine Learning, Predictive Modeling, and Data Visualization — one dataset at a time.
-
-Analyze • Visualize • Predict • Improve
+"Behind every number lies a story, behind every story lies an opportunity."
