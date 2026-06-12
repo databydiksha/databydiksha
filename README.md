@@ -1,36 +1,30 @@
-# Hi there, I'm Diksha Pandey
-
-### Business Analytics | Data Analytics & Machine Learning Enthusiast
-
-I enjoy transforming raw data into meaningful insights and building data-driven solutions using Python and Machine Learning.
 
 ---
 
-## Currently Exploring
 
-* Machine Learning
-* Data Analytics
-* Business Intelligence
-* Predictive Modeling
-* Data Visualization
+```markdown
+# 🚀 Loading Diksha Pandey...
 
----
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 
-## Tech Stack
+✔ Business Analytics Loaded
+✔ Python Loaded
+✔ SQL Loaded
+✔ Power BI Loaded
+✔ Machine Learning Loading...
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)
+Welcome to my GitHub.
 
+I don't just analyze data.
+I uncover stories hidden inside it.
 
----
+Every repository here represents a step toward transforming raw information into actionable insights and intelligent solutions.
 
-## Connect With Me
+📊 Analyze
+🧹 Clean
+📈 Visualize
+🤖 Predict
+🚀 Improve
 
-* LinkedIn: [www.linkedin.com/in/diksha-pandey2407](http://www.linkedin.com/in/diksha-pandey2407)
-
----
-
-> "Without data, you're just another person with an opinion"
+Current Mission:
+Turning data into decisions.
