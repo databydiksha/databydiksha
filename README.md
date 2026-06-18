@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  **Turning curiosity into insights and insights into decisions**
-</p>
+  Turning curiosity into insights and insights into decisions
 
 ---
 
