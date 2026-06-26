@@ -31,5 +31,5 @@ My journey revolves around exploring patterns, building analytical models, and v
 
 Currently exploring Data Analytics, Business Intelligence, Machine Learning, Predictive Modeling, and Data Visualization — one dataset at a time.
 
-**"Somewhere between business strategy and data science, you'll find me"**
+**"Somewhere between business strategy and data science, you'll find me!"**
 
