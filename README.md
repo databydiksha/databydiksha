@@ -29,7 +29,7 @@ I'm Diksha Pandey, a Business Analytics enthusiast who enjoys uncovering insight
 
 My journey revolves around exploring patterns, building analytical models, and visualizing information in ways that help businesses make smarter choices. Whether it's analyzing trends, developing dashboards, or experimenting with machine learning, I'm always curious about what data can reveal.
 
-Currently exploring Data Analytics, Business Intelligence, Machine Learning, Predictive Modeling, and Data Visualization — ONE DATASET AT A TIME.
+Currently exploring Data Analytics, Business Intelligence, Machine Learning, Predictive Modeling, and Data Visualization — One dataset at a time.
 
 **"Somewhere between business strategy and data science, you'll find me!"**
 
